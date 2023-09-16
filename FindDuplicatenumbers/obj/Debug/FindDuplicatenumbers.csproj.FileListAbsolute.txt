@@ -1,0 +1,2 @@
+D:\Vs22Net6Apps\FindDuplicatenumbers\FindDuplicatenumbers\FindDuplicatenumbers\obj\Debug\FindDuplicatenumbers.csproj.AssemblyReference.cache
+D:\Vs22Net6Apps\FindDuplicatenumbers\FindDuplicatenumbers\FindDuplicatenumbers\obj\Debug\FindDuplicatenumbers.csproj.CoreCompileInputs.cache
